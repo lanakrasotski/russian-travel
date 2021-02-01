@@ -1,0 +1,8 @@
+.every-link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.every-link:hover {
+  opacity: 0.8;
+}
